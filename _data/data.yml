@@ -5,54 +5,23 @@
 header:
   # Profile information
   avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-  email: steve.doe@website.com
-  phone: 0123 456 78900
+  email: jluziasilvacosta@gmail.com
+  phone: (84)9 87984950
   website: https://yourwebsite.com
-  linkedin: stevedoe
-  github: stevedoe
-  gitlab:
-  bitbucket:
-  twitter: "@stevedoe"
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
+  linkedin: jeniffer luzia
+  github: jenifferluzia
+  
 
 languages:
   - idiom: English
-    level: Native
-  - idiom: French
-    level: Professional
-  - idiom: Spanish
-    level: Professional
-
-interests:
-  - name: Climbing
-    link:
-  - name: Snowboarding
-    link:
-  - name: Cooking
-    link:
-
-summary: |
-  Summarise your career here. You can make a PDF version of your resume using our free Sketch template here.
-  Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-  Donec quam felis, ultricies nec, pellentesque eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-  Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-  Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-  Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget.
+    level: Basic
+  
 
 education:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+  - degree: Inglês
+    university: CEBRAC
+    time: 2021 - 2022
+    
   - degree: BSc in Applied Mathematics
     university: Bristol University
     time: 2007 - 2011
